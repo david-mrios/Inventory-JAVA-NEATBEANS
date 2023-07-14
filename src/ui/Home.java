@@ -436,7 +436,6 @@ public final class Home extends javax.swing.JFrame {
             bg.initMenu(eventMenu());
         }
 
-        System.out.println(jlblSesion.getText());
     }//GEN-LAST:event_formWindowOpened
 
     private void jLblRolFocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_jLblRolFocusGained
