@@ -1,0 +1,8 @@
+databaseclass =servicios.MS_SQLServer
+jdbc=jdbc:sqlserver://
+driver=com.microsoft.sqlserver.jdbc.SQLServerDriver
+databasehost=SRWYBIE\\SQLEXPRESS
+port = 1433
+database=Inventory
+username=sqlUser
+password = SqlUser2023
