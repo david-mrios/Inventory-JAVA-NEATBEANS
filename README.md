@@ -32,7 +32,7 @@ El Sistema de Inventario de Equipos Tecnológicos en Laboratorios de Computació
 3. **Configuración de SQL Server**: Asegúrese de tener SQL Server instalado y en funcionamiento. Cree una base de datos para el sistema de inventario utilizando los scripts disponibles en la carpeta scripts del repositorio.
 4. **Configuración de la Base de Datos**: Actualice la configuración de conexión a la base de datos en la aplicación para conectar con su instancia de SQL Server.
 
-#### Ejecución de la Aplicación
+## Ejecución de la Aplicación
 1. **Clonar el Repositorio**: Clone el repositorio del proyecto desde el sistema de control de versiones.
 
    ```sh
