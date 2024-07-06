@@ -23,6 +23,7 @@ El Sistema de Inventario de Equipos Tecnológicos en Laboratorios de Computació
 
 ## Instalación y Configuración
 1. **Instalación de Java**: Asegúrese de tener instalada la versión 17.0.6 del JDK en su sistema. Puede descargarla desde el sitio web oficial de Oracle.
+
    ```sh
    java -version
    ```
@@ -33,6 +34,7 @@ El Sistema de Inventario de Equipos Tecnológicos en Laboratorios de Computació
 
 #### Ejecución de la Aplicación
 1. **Clonar el Repositorio**: Clone el repositorio del proyecto desde el sistema de control de versiones.
+
    ```sh
    git clone https://github.com/david-mrios/Inventory-JAVA-NEATBEANS.git
    ```
